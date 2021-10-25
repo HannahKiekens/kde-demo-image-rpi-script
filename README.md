@@ -1,0 +1,1 @@
+# kde-demo-image-rpi-script
