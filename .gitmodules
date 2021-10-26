@@ -1,0 +1,9 @@
+[submodule "src/poky"]
+	path = src/poky
+	url = http://git.yoctoproject.org/cgit/cgit.cgi/poky
+[submodule "src/meta-openembedded"]
+	path = src/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded
+[submodule "src/meta-raspberrypi"]
+	path = src/meta-raspberrypi
+	url = https://github.com/agherzan/meta-raspberrypi
