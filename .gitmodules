@@ -7,3 +7,12 @@
 [submodule "src/meta-raspberrypi"]
 	path = src/meta-raspberrypi
 	url = https://github.com/agherzan/meta-raspberrypi
+[submodule "src/meta-qt5"]
+	path = src/meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+[submodule "src/meta-kde-demo"]
+	path = src/meta-kde-demo
+	url = https://invent.kde.org/packaging/yocto-meta-kde-demo.git
+[submodule "src/meta-kf5"]
+	path = src/meta-kf5
+	url = git@invent.kde.org:packaging/yocto-meta-kf5.git
