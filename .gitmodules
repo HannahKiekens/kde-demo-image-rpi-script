@@ -16,3 +16,6 @@
 [submodule "src/meta-kf5"]
 	path = src/meta-kf5
 	url = git@invent.kde.org:packaging/yocto-meta-kf5.git
+[submodule "src/meta-kde"]
+	path = src/meta-kde
+	url = git@invent.kde.org:packaging/yocto-meta-kde.git
